@@ -1,5 +1,11 @@
-# Analysis-of-Aviation-Accidents-and-Wildlife-Strikes
-This project analyzes aviation safety through accidents, incidents, and wildlife strikes. It explores trends over time, geographic hotspots, and key factors such as pilot experience and flight phases. Using data cleaning, EDA, and visualization, it uncovers patterns to provide insights into risks and safety improvements.
+# Analysis of Aviation Accidents and Wildlife Strikes
+
+Aviation safety is a critical field where even small insights can save lives.  
+This project combines two major datasets — **NTSB aviation accident reports** and **FAA wildlife strike records** — to deliver a comprehensive analysis of the risks and contributing factors in air transport.  
+
+Through advanced **data cleaning**, **exploratory data analysis (EDA)**, and **visualization techniques**, we uncover trends over time, identify geographic hotspots, and highlight key variables such as **pilot experience**, **aircraft type**, and **flight phases**.  
+
+By integrating accident data with wildlife strike incidents via **common features and tables**, the project aims to provide deeper insights into aviation safety, ultimately supporting **risk assessment** and **data-driven safety improvements**.
 
 ## Overview
 This project is part of the **Digital Egypt Pioneers Initiative (DEPI)** under the Ministry of Communications and Information Technology (MCIT).  

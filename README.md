@@ -1,5 +1,7 @@
 # Analysis of Aviation Accidents and Wildlife Strikes
+
 https://ibb.co/d0q08hbc
+
 Aviation safety is a critical field where even small insights can save lives.  
 This project combines two major datasets — **NTSB aviation accident reports** and **FAA wildlife strike records** — to deliver a comprehensive analysis of the risks and contributing factors in air transport.  
 

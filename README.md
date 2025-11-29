@@ -42,7 +42,7 @@ The datasets are connected through common features and tables to provide integra
 ## Assigned Roles
 - **Akram Mohamed Elhady Abdelazeim:** Team coordination, data modeling, integration  
 - **Mahmoud Ahmed Adel:** Data gathering, cleaning, preprocessing  
-- **Ehab Tharwat Mohamed:** Database design, data integration  
+- **Ehab Tharwat Mohamed:** Datasets design, code and data integration  
 - **Taghreed Roshdy Ahmed:** Visualization, dashboard design, reporting  
 - **Nourhan Nasr Eldin Mohamed:** Documentation, quality assurance  
 - **Ahmed Mohamed Ismail:** System analysis, deployment  
